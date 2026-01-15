@@ -10,7 +10,7 @@
 
 **Libft** is the first project of the 42 Core Curriculum. The goal is to create a custom C library named `libft.a` by rewriting standard C library functions and adding useful utility functions. This library will be used in almost all future 42 projects.
 
-**Project Status:** ✅ Completed (125/100) - Mandatory & Bonus Parts.
+**Project Status:** ✅ Completed: Mandatory & Bonus Parts.
 
 ## 📂 Function List
 
